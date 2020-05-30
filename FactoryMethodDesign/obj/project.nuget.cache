@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZHhoNbuOFLzZMEl//rKwf6Dyu0PpYDexoOxIM1q/5mPL4VEdeJ5nOBg7FeJuvm4J/TADdflHxUfghiNFa0Jvg==",
+  "success": true,
+  "projectFilePath": "/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/FactoryMethodDesign.csproj",
+  "expectedPackageFiles": [
+    "/home/ismail/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

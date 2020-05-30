@@ -16,7 +16,7 @@ namespace FactoryMethodDesign
         }
 
         /// <summary>
-        /// Abstarc classstan oluşturduğumuz oyunlarr
+        /// Abstarc classstan oluşturduğumuz arabalar
         /// </summary>
         public static void  AbstractanArabaOlustur()
         {
@@ -33,7 +33,7 @@ namespace FactoryMethodDesign
         }
 
         /// <summary>
-        /// İnterfaceden oluşturduğumuz oyunlar
+        /// İnterfaceden oluşturduğumuz arabalar
         /// </summary>
         public static void InterfacednArabaOlustur()
         {

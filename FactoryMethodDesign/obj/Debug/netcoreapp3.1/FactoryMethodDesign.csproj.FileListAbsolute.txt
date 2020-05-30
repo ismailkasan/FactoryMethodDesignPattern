@@ -1,0 +1,13 @@
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/bin/Debug/netcoreapp3.1/FactoryMethodDesign
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/bin/Debug/netcoreapp3.1/FactoryMethodDesign.deps.json
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/bin/Debug/netcoreapp3.1/FactoryMethodDesign.runtimeconfig.json
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/bin/Debug/netcoreapp3.1/FactoryMethodDesign.runtimeconfig.dev.json
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/bin/Debug/netcoreapp3.1/FactoryMethodDesign.dll
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/bin/Debug/netcoreapp3.1/FactoryMethodDesign.pdb
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/obj/Debug/netcoreapp3.1/FactoryMethodDesign.csprojAssemblyReference.cache
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/obj/Debug/netcoreapp3.1/FactoryMethodDesign.AssemblyInfoInputs.cache
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/obj/Debug/netcoreapp3.1/FactoryMethodDesign.AssemblyInfo.cs
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/obj/Debug/netcoreapp3.1/FactoryMethodDesign.csproj.CoreCompileInputs.cache
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/obj/Debug/netcoreapp3.1/FactoryMethodDesign.dll
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/obj/Debug/netcoreapp3.1/FactoryMethodDesign.pdb
+/home/ismail/Desktop/Demolar/AspNet/FactoryMethodDesignPattern/FactoryMethodDesign/obj/Debug/netcoreapp3.1/FactoryMethodDesign.genruntimeconfig.cache

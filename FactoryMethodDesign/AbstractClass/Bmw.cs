@@ -15,7 +15,7 @@ namespace FactoryMethodDesign.AbstractClass
         /// </summary>
         public override void MarkaAdi()
         {
-            Console.WriteLine("Bu araba Abstarctan Oluşturuldu ve Bmw dir.");
+            Console.WriteLine("Bu araba Abstarct'tan Oluşturuldu ve Bmw dir.");
         }
     }
 }

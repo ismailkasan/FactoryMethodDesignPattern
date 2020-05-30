@@ -12,7 +12,7 @@ namespace FactoryMethodDesign.AbstractClass
         /// <summary>
         /// ArabaMarkasi tipinde obje oluşturan factory method 
         /// </summary>
-        /// <param name="oyunTipi"></param>
+        /// <param name="arabaMarkasi"></param>
         /// <returns></returns>
         public ArabaMarkasi FactoryMethod(Markalar arabaMarkasi)
         {
